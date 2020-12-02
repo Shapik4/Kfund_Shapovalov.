@@ -1,0 +1,30 @@
+.Block1{
+    width: 800px;
+    height:800px ;
+    background: linear-gradient(90deg, rgba(124,32,215,1) 0%, rgba(227,61,184,1) 50%, rgba(255,208,78,1) 100%);
+    border-radius: 170px;}
+    .Block2{
+        width: 580px;
+        height:580px ;
+        border: 50px solid white;
+        border-radius: 140px;
+        position: relative ;
+        top: 55px;
+        left: 55px;
+    }
+    .Block3{width: 300px;
+        height:300px ;
+        border: 50px solid white;
+        border-radius: 250px;
+        position: relative ;
+        top: 100px;
+        left: 100px;
+    }
+       
+    .Block4{width: 0px;
+        height:0px ;
+        border: 40px solid white;
+        border-radius: 1000px;
+        position: relative ;
+        top: -540px;
+        left:560px; }

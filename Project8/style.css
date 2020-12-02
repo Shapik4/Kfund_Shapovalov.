@@ -1,0 +1,9 @@
+
+.Block2{
+    border: 15px solid black;
+    width: 1800px;
+    height: 850px;
+    background: radial-gradient(circle, rgba(251,63,63,1) 0%, rgba(252,70,111,1) 18%, rgba(252,70,113,0) 19%);
+}
+.img1{width: 600px;
+    height: 600px;}
